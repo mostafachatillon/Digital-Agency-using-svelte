@@ -96,7 +96,7 @@ const FOOTER_DATA = {
     "We are focused on result-based maketing. We evaluate your brand’s needs and develop a powerful strategy that maximizes profits.",
   CONTACT_DETAILS: {
     HEADING: "Contact us",
-    ADDRESS: "La trobe street docklands, Melbourne",
+    ADDRESS: "582 Johnson St, Victoria, BC V8W 1M3, Canada",
     MOBILE: "+1 2508581873",
     EMAIL: "nixalar@gmail.com"
   },

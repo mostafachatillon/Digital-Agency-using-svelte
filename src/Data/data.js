@@ -96,8 +96,8 @@ const FOOTER_DATA = {
     "We are focused on result-based maketing. We evaluate your brand’s needs and develop a powerful strategy that maximizes profits.",
   CONTACT_DETAILS: {
     HEADING: "Contact us",
-    ADDRESS: "Victoria, BC, Canada",
-    MOBILE: "+1 2508581873",
+    ADDRESS: "582 Johnson St, Victoria, BC V8W 1M3, Canada",
+    MOBILE: "+1 250-858-1873",
     EMAIL: "nixalar@gmail.com"
   },
 };
