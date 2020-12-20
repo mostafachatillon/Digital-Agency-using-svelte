@@ -49,7 +49,7 @@ const SERVICE_DATA = {
     {
       LABEL: "Web Design & Development",
       DESCRIPTION:
-        "full stack front end, back end (Flask, Django...), SQL & No SQL database, AI It is tough but well worth the effort to create clever material that is not promotional in nature, but rather educates and inspires. It lets them see you as a reliable source of information by delivering content that is meaningful to your audience.",
+        " design that converts . modern and fast latest JAMSTACK (Gatsby, Hugo...). full stack front end, back end (Flask, Django...), SQL & No SQL database, AI It is tough but well worth the effort to create clever material that is not promotional in nature, but rather educates and inspires. It lets them see you as a reliable source of information by delivering content that is meaningful to your audience.",
       URL: "images/webdev.jpg"
     },
 

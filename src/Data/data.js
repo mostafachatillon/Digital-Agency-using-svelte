@@ -12,8 +12,8 @@ const BANNER_DATA = {
   DECRIPTION:
     "CatchAI can help you skyrocket the ROI of your marketing campaign without having to spend tons of money or time to assemble an in-house team.",
   TUTORIAL_URL:
-    "https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/programmatic/google-digital-academy/",
-  WATCH_TUTORIAL: "Watch Tutorials"
+    "https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/programmatic/google-digital-academy/"
+
 };
 const SERVICE_DATA = {
   HEADING: "Our Services",
