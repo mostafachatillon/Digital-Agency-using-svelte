@@ -3,9 +3,9 @@ const HEADER = "CatchAI";
 const NAVBAR_DATA = [
   { id: 1, url: "/", label: "Home" },
   { id: 2, url: "#services", label: "Services" },
-  { id: 3, url: "#about-us", label: "About us" },
 
-  { id: 5, url: "#footer", label: "Contacts" }
+
+  { id: 5, url: "#footer", label: "Contact" }
 ];
 const BANNER_DATA = {
   HEADING: "Go digital with CatchAI",
@@ -96,12 +96,10 @@ const FOOTER_DATA = {
     "We are focused on result-based maketing. We evaluate your brand’s needs and develop a powerful strategy that maximizes profits.",
   CONTACT_DETAILS: {
     HEADING: "Contact us",
-    ADDRESS: "La trobe street docklands, Melbourne",
-    MOBILE: "+1 61234567890",
+    ADDRESS: "Victoria, BC, Canada",
+    MOBILE: "+1 2508581873",
     EMAIL: "nixalar@gmail.com"
   },
-  SUBSCRIBE_NEWSLETTER: "Subscribe newsletter",
-  SUBSCRIBE: "Subscribe"
 };
 
 const MOCK_DATA = {
