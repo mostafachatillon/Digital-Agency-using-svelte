@@ -79,25 +79,6 @@ const ABOUT_DATA = {
     "We provides wide range to services in reasonable prices"
   ]
 };
-const TESTIMONIAL_DATA = {
-  HEADING: "What clients say?",
-  TESTIMONIAL_LIST: [
-    {
-      DESCRIPTION:
-        "Nixalar has made a huge difference to our business with his good work and knowledge of SEO and business to business marketing techniques. Our search engine rankings are better than ever and we are getting more people contacting us thanks to Jomer’s knowledge and hard work.",
-      IMAGE_URL: "images/user1.jpg",
-      NAME: "Julia hawkins",
-      DESIGNATION: "Co-founder at ABC"
-    },
-    {
-      DESCRIPTION:
-        "Nixalar and his team have provided us with a comprehensive, fast and well planned digital marketing strategy that has yielded great results in terms of content, SEO, Social Media. His team are a pleasure to work with, as well as being fast to respond and adapt to the needs of your brand.",
-      IMAGE_URL: "images/user2.jpg",
-      NAME: "John Smith",
-      DESIGNATION: "Co-founder at xyz"
-    }
-  ]
-};
 
 const SOCIAL_DATA = {
   HEADING: "Find us",

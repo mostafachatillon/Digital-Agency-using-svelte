@@ -3,7 +3,6 @@
   import Banner from "./Components/Banner/Banner.svelte";
   import Services from "./Components/Services/Services.svelte";
   import About from "./Components/About/About.svelte";
-
   import Social from "./Components/Social/Social.svelte";
   import Footer from "./Components/Footer/Footer.svelte";
   import DATA from "./Data/data";
