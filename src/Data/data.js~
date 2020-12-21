@@ -22,13 +22,13 @@ const SERVICE_DATA = {
 {
       LABEL: "Social Media Marketing",
       DESCRIPTION:
-        "Many People rely on social networks to discover, research, and educate themselves about a brand before engaging with that organization. The more your audience wants to engage with your content, the more likely it is that they will want to share it.",
+        "Accelerate business growth and generate new leads faster by leveraging social medias.Spend your advertising budget wisely and carefully, by targeting the most suitable audience and demographics for your specific brand and product.",
       URL: "images/service3.png"
     },
 {
       LABEL: "Ambassador Marketing",
       DESCRIPTION:
-        "Many People rely on social networks to discover, research, and educate themselves about a brand before engaging with that organization. The more your audience wants to engage with your content, the more likely it is that they will want to share it.",
+        "Build a personal connection with your customers. Tap into our diverse network of models and influencers, and leverage your own fanbase. With our proprietary AI technology, we also developed exclusive hybrid ambassador offerings, half human, half digital avatar, suitable for omni-channel marketing strategies. Contact us for details.",
       URL: "images/ambassador2_cropped.jpg"
     },
 
@@ -36,7 +36,7 @@ const SERVICE_DATA = {
    {
       LABEL: "Content Marketing",
       DESCRIPTION:
-        "It is tough but well worth the effort to create clever material that is not promotional in nature, but rather educates and inspires. It lets them see you as a reliable source of information by delivering content that is meaningful to your audience.",
+        "Increase exposure, brand awareness and reputation, and attract top-of-funnel visitors with blog posts created by our in-house team of content writers. We create high-quality stories, personalized for your target audience, and optimized for both discoverability on Google and virality on social medias.",
       URL: "images/content-marketing.png"
     },
 
@@ -49,7 +49,8 @@ const SERVICE_DATA = {
     {
       LABEL: "Web Design & Development",
       DESCRIPTION:
-        " design that converts . modern and fast latest JAMSTACK (Gatsby, Hugo...). full stack front end, back end (Flask, Django...), SQL & No SQL database, AI It is tough but well worth the effort to create clever material that is not promotional in nature, but rather educates and inspires. It lets them see you as a reliable source of information by delivering content that is meaningful to your audience.",
+        "Create next‑level websites by strategically blending user experience and brand storytelling. Our UI/UX, web designers and developers create responsive websites that feel at home on any device. In front‑end, back‑end and design, our implementations rely on the latest frameworks and technologies, to minimize technical debt and future-proof your website.
+",
       URL: "images/webdev.jpg"
     },
 
@@ -57,7 +58,7 @@ const SERVICE_DATA = {
   {
       LABEL: "Customer Relationship Management (CRM)",
       DESCRIPTION:
-        "It is tough but well worth the effort to create clever material that is not promotional in nature, but rather educates and inspires. It lets them see you as a reliable source of information by delivering content that is meaningful to your audience.",
+        "Take a comprehensive look at your acquisition funnel, with data-driven customer analytics and machine learning. Where and how customers get onboard, and which conversion strategies work. Define the best processes yo optimize your Key Performance Indicators.",
       URL: "images/service2.png"
     }
 
@@ -70,13 +71,15 @@ const ABOUT_DATA = {
   TITLE: "Why we're different",
   IMAGE_URL: "images/network.png",
   WHY_CHOOSE_US_LIST: [
-    "Cost-Effective Digital Marketing",
 
-    "Marketing efficiency and quick time to value",
+    "Broad range of services, a 360 degree approach to marketing",
+    "Cost-Effective",
+
+    "Efficient and quick time to value",
 
     "A strong desire to establish long lasting business partnerships.",
 
-    "We provides wide range to services in reasonable prices"
+
   ]
 };
 
@@ -84,8 +87,6 @@ const SOCIAL_DATA = {
   HEADING: "Find us",
   IMAGES_LIST: [
     "images/facebook-icon.png",
-
-    "images/whatsapp-icon.png",
     "images/twitter-icon.png",
     "images/linkedin-icon.png"
   ]
@@ -93,12 +94,12 @@ const SOCIAL_DATA = {
 
 const FOOTER_DATA = {
   DESCRIPTION:
-    "We are focused on result-based maketing. We evaluate your brand’s needs and develop a powerful strategy that maximizes profits.",
+    "We are a boutique marketing agency focused on results. We evaluate your brand’s needs and develop a powerful strategy that maximizes profits.",
   CONTACT_DETAILS: {
     HEADING: "Contact us",
     ADDRESS: "582 Johnson St, Victoria, BC V8W 1M3, Canada",
-    MOBILE: "+1 2508581873",
-    EMAIL: "nixalar@gmail.com"
+    MOBILE: "+1 250-858-1873",
+    EMAIL: "melwy.ai@gmail.com"
   },
 };
 
