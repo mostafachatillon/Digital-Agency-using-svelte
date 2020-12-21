@@ -28,7 +28,7 @@ const SERVICE_DATA = {
 {
       LABEL: "Ambassador Marketing",
       DESCRIPTION:
-        "Build a personal connection with your customers. Tap into our diverse network of models and influencers, and leverage your own fanbase. With our proprietary AI technology, we also developed exclusive hybrid ambassador offerings, half human, half digital avatar, suitable for omni-channel marketing strategies. Contact us for details.",
+        "Build a personal connection with your customers. Tap into our diverse network of models and influencers, and leverage your own fanbase. With our proprietary AI technology, we also developed exclusive hybrid ambassador offerings, half human, half digital avatar, ideal for omni-channel marketing strategies.",
       URL: "images/ambassador2_cropped.jpg"
     },
 
