@@ -49,8 +49,7 @@ const SERVICE_DATA = {
     {
       LABEL: "Web Design & Development",
       DESCRIPTION:
-        "Create next‑level websites by strategically blending user experience and brand storytelling. Our UI/UX, web designers and developers create responsive websites that feel at home on any device. In front‑end, back‑end and design, our implementations rely on the latest frameworks and technologies, to minimize technical debt and future-proof your website.
-",
+        "Create next‑level websites by strategically blending user experience and brand storytelling. Our UI/UX, web designers and developers create responsive websites that feel at home on any device. In front‑end, back‑end and design, our implementations rely on the latest frameworks and technologies, to minimize technical debt and future-proof your website.",
       URL: "images/webdev.jpg"
     },
 

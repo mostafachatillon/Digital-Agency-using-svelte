@@ -86,8 +86,6 @@ const ABOUT_DATA = {
 const SOCIAL_DATA = {
   HEADING: "Find us",
   IMAGES_LIST: [
-    "images/facebook-icon.png",
-    "images/twitter-icon.png",
     "images/linkedin-icon.png"
   ]
 };
