@@ -28,7 +28,7 @@ const SERVICE_DATA = {
 {
       LABEL: "Ambassador Marketing",
       DESCRIPTION:
-        "Build a personal connection with your customers. Tap into our diverse network of models and influencers, and leverage your own fanbase. With our proprietary AI technology, we also developed exclusive hybrid ambassador offerings, half human, half digital avatar, suitable for omni-channel marketing strategies. Contact us for details.",
+        "Build a personal connection with your customers. Tap into our diverse network of models and influencers, and leverage your own fanbase. With our proprietary AI technology, we also developed exclusive hybrid ambassador offerings, half human, half digital avatar, ideal for omni-channel marketing strategies.",
       URL: "images/ambassador2_cropped.jpg"
     },
 
@@ -49,7 +49,7 @@ const SERVICE_DATA = {
     {
       LABEL: "Web Design & Development",
       DESCRIPTION:
-        "Create next‑level websites by strategically blending user experience and brand storytelling. Our UI/UX, web designers and developers create responsive websites that feel at home on any device. In front‑end, back‑end and design, our implementations rely on the latest frameworks and technologies, to minimize technical debt and future-proof your website.",
+        "Create next‑level websites by strategically blending user experience and brand storytelling. Our UI/UX, web designers and developers create responsive websites that feel at home on any device. In front‑end, back‑end and design, our implementations rely on the latest frameworks and technologies, to future-proof your website.",
       URL: "images/webdev.jpg"
     },
 
@@ -71,10 +71,10 @@ const ABOUT_DATA = {
   IMAGE_URL: "images/network.png",
   WHY_CHOOSE_US_LIST: [
 
-    "Broad range of services, a 360 degree approach to marketing",
+    "A 360 degree approach to marketing",
     "Cost-Effective",
 
-    "Efficient and quick time to value",
+    "Quick time to value",
 
     "A strong desire to establish long lasting business partnerships.",
 
