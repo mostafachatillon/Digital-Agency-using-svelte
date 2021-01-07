@@ -1,6 +1,7 @@
 const HEADER = "DataModels";
 
 const NAVBAR_DATA = [
+  { id: 1, url: "/ru", label: "Home" },
   { id: 1, url: "/", label: "Home" },
   { id: 2, url: "#services", label: "Services" },
 
@@ -96,7 +97,7 @@ const FOOTER_DATA = {
     HEADING: "Contact us",
     ADDRESS: "582 Johnson St, Victoria, BC V8W 1M3, Canada",
     MOBILE: "+1 250-858-1873",
-    EMAIL: "info@datamodels.com"
+    EMAIL: "info@datamodels.digital"
   },
 };
 
