@@ -18,7 +18,7 @@
         </div>
       {/each}
     </div>
-  <a href="mailto:info@datamodels.marketing">
+  <a href="mailto:info@datamodels.digital">
   <buttom class="btn btn-primary round-border main-bgcolor">
       {ALL_SERVICES}
     </buttom>  </a>
