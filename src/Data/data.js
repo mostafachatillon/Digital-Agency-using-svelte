@@ -1,4 +1,4 @@
-const HEADER = "CatchAI";
+const HEADER = "DataModels";
 
 const NAVBAR_DATA = [
   { id: 1, url: "/", label: "Home" },
@@ -8,9 +8,9 @@ const NAVBAR_DATA = [
   { id: 5, url: "#footer", label: "Contact" }
 ];
 const BANNER_DATA = {
-  HEADING: "Go digital with CatchAI",
+  HEADING: "Go digital with DataModels",
   DECRIPTION:
-    "CatchAI helps you skyrocket the ROI of your marketing campaign without having to spend tons of money or time to assemble an in-house team.",
+    "DataModels helps you skyrocket the ROI of your marketing campaign without having to spend tons of money or time to assemble an in-house team.",
   TUTORIAL_URL:
     "https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/programmatic/google-digital-academy/"
 
@@ -96,7 +96,7 @@ const FOOTER_DATA = {
     HEADING: "Contact us",
     ADDRESS: "582 Johnson St, Victoria, BC V8W 1M3, Canada",
     MOBILE: "+1 250-858-1873",
-    EMAIL: "melwy.ai@gmail.com"
+    EMAIL: "info@datamodels.marketing"
   },
 };
 
