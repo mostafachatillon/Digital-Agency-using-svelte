@@ -58,7 +58,7 @@ const SERVICE_DATA = {
   {
       LABEL: "Customer Relationship Management (CRM)",
       DESCRIPTION:
-        "Take a comprehensive look at your acquisition funnel, with data-driven customer analytics and machine learning. Where and how customers get onboard, and which conversion strategies work. Define the best processes yo optimize your Key Performance Indicators.",
+        "Take a comprehensive look at your acquisition funnel, with data-driven customer analytics and machine learning. Where and how customers get onboard, and which conversion strategies work. Define the best processes to optimize your Key Performance Indicators.",
       URL: "images/service2.png"
     }
 
